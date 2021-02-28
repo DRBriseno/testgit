@@ -1,0 +1,36 @@
+[
+    {
+       "eventName":"Graduation Party",
+       "startDate":"June 3,2021",
+       "endDate":"June 3,2021",
+       "participants":"graduating class make school",
+       "location":"555 Post st SF",
+       "budget":"9,000",
+       "suppliers":"Jenny Chang Gang",
+       "eventDiscription":"Please Join Us in Celebrating the Graduation of Our The 2021
+       MakeSchool Class! RSVP to Amy Starr (555-6789 / amystar@emailprovider.com) by May 5"
+    },
+    {
+        "eventName":"Mr. & Mrs. Smith Anniversary Party",
+        "startDate":"March 28,2021",
+        "endDate":"March 28, 2021",
+        "participants":"Immediate Friends and Family",
+        "location":"Louis M. Martini Winery, 254 Saint Helena Highway S, St Helena, CA 94574",
+        "budget":"15,500",
+        "suppliers":"Louis M. Martini Winery",
+        "eventDiscription":"The children of Cassidy Smith and Ian Smith request the pleasure of your company as they celebrate their parents'
+        50th Wedding Anniversary Saturday, the twenty eighth of March two thousand twenty one, twelve o'clock noon"
+    },
+    {
+        "eventName":"Bonnie and Clyde Wedding",
+        "startDate":"August 11, 2021",
+        "endDate":"August 11, 2021",
+        "participants":"Friends and Family",
+        "location":"The Hamlin Mansion, 2120 Broadway, San Francisco, CA 94115",
+        "budget":"52,000",
+        "suppliers":"Mandy Scott Events",
+        "eventDiscription":"Mr. & Mrs. Jon Flores and Mr. Tom Byrne & the late Mrs. Nancy Byrne
+        request the honor of your company at the marriage of their children
+        Bonnie Flores & sClyde Byrne"
+    }
+]
